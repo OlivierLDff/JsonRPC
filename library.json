@@ -8,10 +8,10 @@
   "repository":
   {
     "type": "git",
-    "url": "https://bitbucket.org/vandrham/jsonrpc.git"
+    "url": "https://github.com/OlivierLDff/JsonRPC.git"
   },
   "dependencies":
   {
     "name": "aJson"
   }
-} 
+}
