@@ -1,14 +1,19 @@
 {
-  "name": "JsonRPC",
+  "name": "aJsonRPC",
   "keywords": "json, rpc",
   "description": "An Arduino library to enable JSON-RPC communication",
-  "authors": {
-    "name": "Edwin van der Ham"
-  },
+  "authors": [
+    {
+      "name": "Edwin van der Ham"
+    },
+    {
+      "name": "OlivierLDff"
+    }
+  ],
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/OlivierLDff/JsonRPC.git"
+    "url": "https://github.com/OlivierLDff/aJsonRPC.git"
   },
   "dependencies":
   {
